@@ -1,4 +1,4 @@
-package com.parking;
+package com.apartment;
 import java.util.Scanner;
 public class mainclass {
 
