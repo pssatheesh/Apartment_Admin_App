@@ -1,5 +1,9 @@
-package com.apartment;
+package mainpackage;
 import java.util.Scanner;
+
+import com.apartment.Guest;
+import com.apartment.Tenant;
+import com.apartment.logincode;
 public class mainclass {
 
 	public static void main(String[] args) {
